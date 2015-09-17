@@ -1,7 +1,8 @@
 List of members for team 4
 
 Chamara
-
+	-	Preferred engineering: mechatronics eng
+	-	Team role: team member
 Jun
 
 Matthew
